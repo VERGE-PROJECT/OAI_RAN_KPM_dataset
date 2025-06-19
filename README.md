@@ -61,7 +61,7 @@ The dataset was used to train an LSTM-based AI model adapted from cloud CPU fore
 ## 🔍 Usage Notes
 
 - Periodic weekly patterns observed
-- Uplink PRB shows higher variance than downlink
+- The traffic generation was made in the Uplink direction (for the PRB usage)
 - Throughput and PRB usage show strong correlation
 - Dataset is ML-ready (cleaned & structured)
 
