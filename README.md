@@ -1,6 +1,8 @@
 # Time series RAN dataset using OAI KPM xApp
 This a RAN time series dataset that was captured using a bare metal OAI experimental setup (CN, gNB, FlexRIC and KPM xApp).
 
+![Dataset_logo](https://github.com/user-attachments/assets/6853a3aa-61cf-4d7d-9c20-b171af44af22)
+
 ## 📊 Dataset Overview
 
 This dataset contains Radio Access Network (RAN) metrics collected using the KPM xApp in a 5G emulation environment based on OpenAirInterface (OAI). It includes time-series measurements representing network behavior over 5 weeks (~10,080 samples).
